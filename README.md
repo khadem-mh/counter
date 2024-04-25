@@ -1,10 +1,52 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# <p align="center"> Hi there 👋 I'm Mohammad Hossein 👨‍💻 </p>
+ <p align="center"> React Js expert and FrontEnd Developer from Iran.</p>
 
-In the project directory, you can run:
+## Descripton Project
+- Create a beautiful and very useful form on login and register pages and ... React JS. 
+
+- Fully optimized and cleanly programmed, and the principle of being a base component in this project is respected. 
+
+- This way, you no longer need to validate the server-side validation, which means that you are following the DRY (Don Repeat Yourself) rule.
+
+- This form is very flexible in terms of customization.
+
+>### Languages
+>> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=5BCAF7&random=false&width=100&height=25&lines=React+Js)
+>>
+>> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=F77F1A&random=false&width=55&height=25&lines=Html5)
+>> 
+>> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=5BCAF7&random=false&width=55&height=25&lines=Css3)
+>> 
+>> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=FAFF09&random=false&width=100&height=25&lines=JavaScript)
+
+>### Packages
+>> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=CB58F7FF&random=false&width=150&height=25&lines=React+Icons)
+
+## View of the project
+
+<img src="./public/video/counter.gif" width="350px"/>
+
+## Getting Started
+
+Before running the project, it is necessary to install npm on your system, then you can put the following command in the path of the project
+
+and after installing the related packages run the project.
+
+```
+> npm install
+```
+OR
+```
+> npm i
+```
+
+Then, after you finish installing the packages, run this command to start your React program.
+
+```
+> npm start
+```
 
 ### `npm start`
 
@@ -14,57 +56,15 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+### Guid
+If you are not installed on your system Node.js and Npm, go to this [Link Install](https://nodejs.org/en/download) and install and then proceed to the above steps
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Install Node.js and NPM in Windows via Node.js Installer
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+___
+>### Social Network
+> [<img src="./public/Images/github.png" width="30">](https://github.com/khadem-mh)
+> [<img src="./public/Images/pintrest.png" width="30">](https://pinterest.com/khadem_mh)
+> [<img src="./public/Images/telegram.png" width="30">](https://t.me/mhkhadem)
+> [<img src="./public/Images/whatsapp.png" width="30">](https://wa.me/989031335939)
+> [<img src="./public/Images/wakatimesvg.png" width="130">](https://wakatime.com/@khadem_mh)

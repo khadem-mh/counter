@@ -9,9 +9,7 @@ export default function Counter() {
   const [rotateBox, setRotateBox] = useState(true)
 
   const numberHandler = useCallback(action => {
-    console.log(action.type);
     setTypeFunc(action.type)
-    setNumber(0)
     switch (action.type) {
       case 'Max': return setNumber(num => num + 1)
       case 'Reset': return setNumber(num => num - num)
