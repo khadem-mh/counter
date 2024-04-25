@@ -1,0 +1,87 @@
+.container {
+    box-shadow: 15px 0 35px rgba(32, 178, 171, 0.41);
+    background-color: transparent;
+    border-radius: 1.5rem;
+    padding: 1rem 2rem;
+    transform: rotate(-45deg);
+    user-select: none;
+}
+
+.icon-rotate svg {
+    font-size: 1.6rem;
+    cursor: pointer;
+    color: gray;
+    transition: all 400ms;
+}
+
+.icon-rotate svg:hover {
+    color: black;
+}
+
+.top__number {
+    text-align: center;
+    transform: rotate(45deg);
+    border-radius: 1.5rem;
+    padding: 1rem 1rem;
+    box-shadow: 5px 0 15px rgba(32, 178, 171, 0.41);
+    font-size: 3rem;
+    color: rgba(32, 178, 171, 0.41);
+}
+
+.top__type-func {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: rotate(45deg);
+    color: gray !important;
+    font-size: 1.3rem;
+}
+
+.container__bottom {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: rotate(45deg);
+    margin: 2.5rem 0 3.3rem 0;
+}
+
+.container__bottom button {
+    padding: .6rem;
+    border-radius: .4rem;
+    margin: .5rem;
+    font-size: 1.8rem;
+    background-color: transparent;
+    box-shadow: 5px 0 10px rgba(32, 178, 171, 0.41);
+    color: rgba(32, 178, 171, 0.41);
+    transition: all 400ms;
+    font-weight: bold;
+}
+
+.container__bottom button:hover {
+    background-color: rgba(55, 56, 56, 0.578);
+    color: white;
+}
+
+.rotate-not-active {
+    transition: all 1s;
+    transform: rotate(0);
+}
+
+.rotate-main-active {
+    transition: all 1s;
+    transform: rotate(-45deg);
+}
+
+.rotate-active {
+    transition: all 1s;
+    transform: rotate(45deg);
+}
+
+@media screen and (max-width: 500px) {
+    .container,
+    .top__number,
+    .top__type-func,
+    .container__bottom {
+        transform: rotate(0);
+    }
+}
