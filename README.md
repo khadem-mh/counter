@@ -26,7 +26,7 @@
 
 ## View of the project
 
-<img src="./public/video/counter.gif" width="350px"/>
+<img src="./public/Video/counter.gif" width="450px"/>
 
 ## Getting Started
 
