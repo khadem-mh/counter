@@ -4,13 +4,9 @@
  <p align="center"> React Js expert and FrontEnd Developer from Iran.</p>
 
 ## Descripton Project
-- Create a beautiful and very useful form on login and register pages and ... React JS. 
+- A beautiful counter with the ability to rotate the main container box to 45 degree angles
 
-- Fully optimized and cleanly programmed, and the principle of being a base component in this project is respected. 
-
-- This way, you no longer need to validate the server-side validation, which means that you are following the DRY (Don Repeat Yourself) rule.
-
-- This form is very flexible in terms of customization.
+- This counter may be very simple and unusable، but the main purpose of this counter is to create a counter behind the backdrop of react، which wants to show the use of callback here، or somehow show one of its uses in this mini-project.
 
 >### Languages
 >> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=5BCAF7&random=false&width=100&height=25&lines=React+Js)
