@@ -3,7 +3,7 @@
 # <p align="center"> Hi there 👋 I'm Mohammad Hossein 👨‍💻 </p>
  <p align="center"> React Js expert and FrontEnd Developer from Iran.</p>
 
-## Descripton Project
+## Description Project
 - A beautiful counter with the ability to rotate the main container box to 45 degree angles
 
 - This counter may be very simple and unusable، but the main purpose of this counter is to create a counter behind the backdrop of react، which wants to show the use of callback here، or somehow show one of its uses in this mini-project.
